@@ -1,0 +1,5 @@
+https://otmaneboughaba.com/posts/local-llm-ollama-huggingface/
+
+https://medium.com/@ogbanugot/notes-on-fine-tuning-llama-2-using-qlora-a-detailed-breakdown-370be42ccca1
+
+https://dzone.com/articles/custom-training-of-large-language-models-a-compreh#:~:text=Custom%20Training%20of%20Large%20Language%20Models%20%28LLMs%29%3A%20A,6%3A%20Save%20and%20Use%20the%20Fine-Tuned%20Model%20
